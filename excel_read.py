@@ -1,7 +1,16 @@
 from openpyxl import load_workbook
 
+def write_excel(
+    path, tournament_name, torunament_category, torunament_date, draw_witnesses
+)
+    wb = load_workbook(filename="cup32.xlsx")
+    ws = wb.active
 
-wb = load_workbook(filename="sample.xlsx")
-# if not wb.views:
-#     wb.views.append(openpyxl.workbook.views.BookView())
-print(wb.sheetnames)
+
+write_excel(
+    path=,
+    tournament_name=,
+    torunament_category=,
+    torunament_date=,
+    draw_witnesses=
+)
