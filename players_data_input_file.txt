@@ -1,0 +1,31 @@
+    1.  PAR1838041  Parszowski  Igor    1985-10-16  Niezrzeszony    œwiêtokrzyskie  17
+    2.  SOB1422291  Sobczyk Filip   1987-10-08  Niezrzeszony    podkarpackie    23
+    3.  WRO1428864  Wrona   Jakub   1990-04-11  Niezrzeszony        41
+    4.  TAK1419976  Takmad¿an   Artem   1970-10-26  Niezrzeszony    podkarpackie    67
+    5.  DAB1421837  D¹browski   Zbigniew    1972-10-06  Niezrzeszony    œwiêtokrzyskie  71
+    6.  WDO1426547  WDOWIAK TOMASZ  2004-09-11  Niezrzeszony    podkarpackie    75
+    7.  CAC1403410  Cach    Sebastian   1982-06-26  Niezrzeszony    podkarpackie    90
+    8.  CIA1632969  Ciak    Bartosz 1989-04-24  Niezrzeszony        93
+    9.  ZON1417549  Zontek  Tomasz  1977-10-10  Niezrzeszony    podkarpackie    99
+    10. DYB1837854  Dybka   Daniel  1973-10-19  Niezrzeszony    podkarpackie    105
+    11. MAC1737020  Maciej  Mateusz 1994-09-21  Niezrzeszony        105
+    12. KOZ1838119  Kozakiewicz Kamil   1976-06-18  Niezrzeszony    œwiêtokrzyskie  112
+    13. PIA1418125  Piasta  Mariusz 1973-08-05  Niezrzeszony    mazowieckie 118
+    14. MAR1938061  Marsza³ek   Bartosz 2003-01-22  Klub Sportowy Czarni    podkarpackie    125
+    15. SIE1412859  Siek    Pawe³   1979-08-25  Niezrzeszony    podkarpackie    127
+    16. KON2041089  Konopelski  Pawe³   1975-12-30  Niezrzeszony    podkarpackie    142
+    17. BRE1414648  Breœka  Grzegorz    1966-11-20  Niezrzeszony    podkarpackie    156
+    18. DZI2041122  Dziki   £ukasz  1976-11-06  Niezrzeszony    podkarpackie    156
+    19. KLO2041248  K³osowski   Szymon  2005-11-28  Niezrzeszony    podkarpackie    156
+    20. MAC2041251  Maciej  Damian  1990-11-30  Niezrzeszony    podkarpackie    156
+    21. WOJ2041110  Wojtanowski Adrian  2001-05-27  Niezrzeszony    podkarpackie    156
+    22. ZAG1407230  Zagórowski  Andrzej 1955-01-02  Niezrzeszony    lubelskie   156
+    23. SZE2041097  Szeliga Robert  1977-05-12  Niezrzeszony    podkarpackie    163
+    24. FOL2041050  Folfas  Andrzej 1976-03-26  Niezrzeszony    œwiêtokrzyskie  189
+    25. ALI2041394  Alivand Amin    1985-03-06  Niezrzeszony    mazowieckie 
+    26. BOR2041428  Borkowski   Jacek   1967-09-22  Niezrzeszony    podkarpackie    
+    27. GUM1404921  Gumuliñski  Jakub   1983-03-14  Niezrzeszony    mazowieckie 
+    28. KIS2041400  Kisiel  Bartosz 2006-07-14  Niezrzeszony    podkarpackie    
+    29. MIC2041160  Michalewski Albert  1963-07-06  Niezrzeszony        
+    30. ROG1938482  Rogus   Mi³osz  2004-01-14  Niezrzeszony    podkarpackie    
+    31. ROM2041288  Roman   Jakub   2002-02-03  Niezrzeszony   
